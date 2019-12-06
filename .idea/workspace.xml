@@ -2,8 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea667997-c816-417b-9fcb-1c95d3efc108" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/single-produto.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/constants.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/constants.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/crypto.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/crypto.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/fs.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/fs.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/http2.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/http2.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/os.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/os.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/stream.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/stream.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/webpack/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/webpack/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/webpack/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/webpack/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/webpack/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/webpack/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/caniuse-lite/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/caniuse-lite/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/caniuse-lite/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/caniuse-lite/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/del/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/del/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/electron-to-chromium/full-chromium-versions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/electron-to-chromium/full-chromium-versions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/electron-to-chromium/full-versions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/electron-to-chromium/full-versions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/electron-to-chromium/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/electron-to-chromium/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/electron-to-chromium/versions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/electron-to-chromium/versions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/glob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/imagemin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/imagemin/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loglevel/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/loglevel/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loglevel/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/loglevel/Gruntfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loglevel/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/loglevel/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loglevel/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/loglevel/bower.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loglevel/dist/loglevel.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/loglevel/dist/loglevel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loglevel/dist/loglevel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/loglevel/dist/loglevel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loglevel/lib/loglevel.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/loglevel/lib/loglevel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loglevel/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/loglevel/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loglevel/test/node-integration.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/loglevel/test/node-integration.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/svgo/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/svgo/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/svgo/lib/svgo.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/svgo/lib/svgo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/svgo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/svgo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/svgo/plugins/minifyStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/svgo/plugins/minifyStyles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/svgo/plugins/prefixIds.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/svgo/plugins/prefixIds.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vm-browserify/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vm-browserify/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vm-browserify/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vm-browserify/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vm-browserify/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vm-browserify/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vm-browserify/example/run/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vm-browserify/example/run/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vm-browserify/example/run/entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vm-browserify/example/run/entry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vm-browserify/example/run/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vm-browserify/example/run/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vm-browserify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vm-browserify/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vm-browserify/readme.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vm-browserify/readme.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-cli/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/bin/config/config-yargs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-cli/bin/config/config-yargs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/bin/utils/convert-argv.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-cli/bin/utils/convert-argv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-cli/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/custom.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/custom.sass" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +80,13 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -53,7 +113,11 @@
       <workItem from="1572416724286" duration="4802000" />
       <workItem from="1572506258951" duration="9141000" />
       <workItem from="1572836889709" duration="85000" />
-      <workItem from="1573025402022" duration="697000" />
+      <workItem from="1573025402022" duration="1300000" />
+      <workItem from="1573221023365" duration="798000" />
+      <workItem from="1573305685177" duration="328000" />
+      <workItem from="1573386263154" duration="9710000" />
+      <workItem from="1575621738243" duration="5238000" />
     </task>
     <servers />
   </component>

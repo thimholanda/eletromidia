@@ -2,8 +2,17 @@ import 'bootstrap';
 import $ from 'jquery';
 import '@fortawesome/fontawesome-free/js/all.js';
 import './sass/index.sass';
+import slick from 'slick-carousel';
 
 $(document).ready(function(){
+
+    $('.cases-slider').slick({
+        slidesToShow: 1,
+        centerPadding: '350px',
+        centerMode: true,
+        arrows: false,
+        dots: true
+    });
 
     if($(this).scrollTop() > 120)
     {

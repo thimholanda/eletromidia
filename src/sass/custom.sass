@@ -19,6 +19,17 @@
     background-color: #cc2b4e
     border-color: $pink
 
+.btn-primary-outline
+  background-color: white
+  border-color: #cc2b4e
+  text-transform: uppercase
+  color: $pink
+
+  &:hover
+    background-color: $pink
+    border-color: #cc2b4e
+    color: white
+
 .translate-y-50
   transform: translateY(-50%)
 
@@ -27,7 +38,66 @@
   right: 10px
   top: 10px
 
-.column-count-3
-  -webkit-column-count: 3
-  -moz-column-count: 3
-  column-count: 3
+.mask-black-transparent
+  width: 100%
+  height: 100%
+  left: 0
+  top: 0
+  position: absolute
+  background: rgb(0,0,0)
+  background: linear-gradient(0deg, rgba(0,0,0,.8) 0%, rgba(0,0,0,0) 60%)
+  opacity: 0
+
+.cases-slide
+  opacity: 0.4
+  transition: all .4s
+
+  a
+    &:active, &:visited, &:hover
+      outline: none !important
+      border: none !important
+
+  figcaption
+    position: absolute
+    left: 0
+    bottom: 0
+    text-align: center
+    width: 100%
+    color: white
+    padding: 1.5rem
+    line-height: 1.5rem
+    opacity: .8
+
+.slick-active
+  .cases-slide
+    opacity: 1 !important
+
+    .mask-black-transparent
+      opacity: .7 !important
+
+.slick-slide
+  outline: none !important
+
+  &:focus
+    outline: none !important
+
+.slick-dots
+  bottom: -40px !important
+  li
+    button:before
+      content: '' !important
+      width: 15px !important
+      height: 15px !important
+      line-height: 15px !important
+      opacity: 1 !important
+      border-radius: 100%
+      border: 1px solid $pink
+
+  .slick-active
+    button:before
+      background-color: $pink
+
+
+
+
+
